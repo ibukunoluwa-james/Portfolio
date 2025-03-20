@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Ibukunoluwa's Portfolio",
-  description: "Modern and minimalist JS mastery portfolio",
+  description: "A sleek and interactive frontend portfolio showcasing my skills in React, JavaScript, and modern UI design. Featuring responsive layouts, smooth animations, and real-world projects that highlight my expertise in building dynamic web applications.",
 };
 
 export default function RootLayout({

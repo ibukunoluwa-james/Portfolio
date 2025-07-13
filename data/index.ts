@@ -94,14 +94,14 @@ export const navItems = [
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
       link: "/ui.yoom.com",
     },
-    {
-      id: 4,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "/ui.aiimg.com",
-    },
+    // {
+    //   id: 4,
+    //   title: "AI Image SaaS - Canva Application",
+    //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    //   img: "/p3.svg",
+    //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    //   link: "/ui.aiimg.com",
+    // },
   ];
   
   export const testimonials = [

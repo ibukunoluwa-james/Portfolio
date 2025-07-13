@@ -92,7 +92,7 @@ export const navItems = [
       des: "A sleek Cowrywise replica showcasing responsive design, smooth interactions, and fintech-inspired UI.",
       img: "/cowrypage.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-      link: "/ui.yoom.com",
+      link: "https://ibukunoluwa-james.vercel.app/",
     },
     // {
     //   id: 4,
